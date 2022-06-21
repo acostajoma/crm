@@ -1,18 +1,3 @@
 {
-  "clientes": [
-    {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
-    },
-    {
-      "nombre": "Jose M",
-      "email": "correo2@correo.com",
-      "telefono": "2312312",
-      "empresa": "Codigo zaico",
-      "id": 27
-    }
-  ]
+  "clientes": []
 }

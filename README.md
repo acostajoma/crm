@@ -1,1 +1,2 @@
 The project is a small CRM that allows to add clients and retrieve their information from an API. At the moment the data is being retrieved from a json file using the nodejs json-server package
+To run the project locally, installing the json-server npm package is necessary, once the dependency has been installed, run the database on port 4000 by using the command: json-server --watch db.json --port 4000
